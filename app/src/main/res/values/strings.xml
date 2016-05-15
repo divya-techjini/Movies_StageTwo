@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Movies_StageTwo</string>
+    <string name="action_popular">Most popular</string>
+    <string name="action_rated">Top rated</string>
+    <string name="action_fav">Favourite</string>
+    <string name="msg_no_movies">No movies found.</string>
+    <string name="msg_loading">Loading movies list.Please wait.</string>
+    <string name="msg_loading_data">Loading data.Please wait.</string>
+    <string name="lbl_rating">10</string>
+    <string name="lbl_release">Release Date : </string>
+    <string name="lbl_rate">Rating : </string>
+    <string name="lbl_summery">Synopsis</string>
+    <string name="msg_added">Movie added to favouite list.</string>
+    <string name="msg_removed">Movie removed from favouite list.</string>
+    <string name="lbl_reviews">Reviews</string>
+    <string name="lbl_trailors">Trailors</string>
+    <string name="title_movie_list_pop">Popular Movies</string>
+    <string name="title_movie_list_rate">Top rated Movies</string>
+    <string name="title_movie_fav">Favourite Movies</string>
+    <string name="msg_no_internet">Please check your internet settings.</string>
+    <string name="msg_no_trailers">No trailers.</string>
+    <string name="msg_no_reviews">No reviews.</string>
+    <string name="title_details">Movie Details</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
